@@ -1,0 +1,22 @@
+body {
+	background-color: pink;
+	border: 2px dashed #ffffff;
+	margin: 30px;
+	padding: 30px;
+}
+
+img{
+	height:100px;
+}
+
+p{
+	color: white;
+}
+
+ul#donut {
+	color: black;
+}
+
+ol#something {
+	color: black;
+}
